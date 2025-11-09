@@ -1,0 +1,32 @@
+# Compiled code and build artifacts
+*.o
+*.pyc
+*.class
+bin/
+build/
+dist/
+target/
+
+# Dependency directories
+node_modules/
+venv/
+vendor/
+
+# Log and temporary files
+logs/
+*.log
+*.tmp
+temp/
+.lock
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+# Sensitive environment files
+.env
